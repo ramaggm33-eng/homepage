@@ -1,0 +1,13 @@
+ git init
+ git add .
+ git commit -m 
+ git commit -m "Update"
+ git config --global user.email "ramaggm33@gmail.com"
+ git config --global user.name "ramaggm33-eng"
+ git branchs -M main
+ git branch -M main
+ git remote add origin https//github.com/ramaggm33-eng/homepage.git
+ git push -u origin main
+ git remote add origin https://github.com/ramaggm33-eng/homepage.git
+ git push -u origin main
+ doskey /history > rama_UH1.txt
