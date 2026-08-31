@@ -11,3 +11,6 @@
  git remote add origin https://github.com/ramaggm33-eng/homepage.git
  git push -u origin main
  doskey /history > rama_UH1.txt
+ git remote set-url origin https://github.com/ramaggm33-eng/homepage.git
+ git push -u origin main
+ doskey /history > rama_UH1.txt
